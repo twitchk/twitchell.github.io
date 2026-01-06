@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black circular background -->
+  <circle cx="16" cy="16" r="16" fill="#000000"/>
+  
+  <!-- White "T" letter -->
+  <path d="M8 10V12H14V24H18V12H24V10H8Z" fill="#FFFFFF"/>
+</svg> 
